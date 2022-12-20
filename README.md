@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hi, I'm Ala eddine ,</h1>
+<h1 align="center">Hi 👋, I'm Ala eddine ,</h1>
 <h3 align="center">a passionate developer student from Tunisia.</h3>
 
 - 🔭 I’m currently working on **NodeJs ,ReactJs ,Angular,MongoDB**
